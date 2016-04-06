@@ -6,7 +6,7 @@
 	url = https://github.com/emqtt/emqttd_plugin_template.git
 [submodule "plugins/emqttd_plugin_pgsql"]
 	path = plugins/emqttd_plugin_pgsql
-	url = https://github.com/emqtt/emqttd_plugin_pgsql.git
+	url = https://github.com/moldedbits/emqttd_plugin_pgsql.git
 [submodule "plugins/emqttd_plugin_mysql"]
 	path = plugins/emqttd_plugin_mysql
 	url = https://github.com/emqtt/emqttd_plugin_mysql.git
